@@ -1,0 +1,29 @@
+{
+  "extrinsic": {
+    "quaternion": [
+      0.6202204286587283,
+      -0.6042974885762495,
+      0.36354706163082123,
+      -0.34348900878254707
+    ],
+    "translation used in CARLA (CARLA reference)": [
+      1.92,
+      0.0,
+      0.9
+    ]
+  },
+  "intrinsic": {
+    "aspect_ratio": 1.00021,
+    "cx_offset": 0.329055,
+    "cy_offset": -3.5506,
+    "height": 966.0,
+    "k1": 341.725,
+    "k2": -26.4448,
+    "k3": 32.7864,
+    "k4": 0.50499,
+    "model": "radial_poly",
+    "poly_order": 4,
+    "width": 1280.0
+  },
+  "name": "FV"
+}

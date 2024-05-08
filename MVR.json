@@ -1,0 +1,29 @@
+{
+  "extrinsic": {
+    "quaternion": [
+      0.2538667538615206,
+      0.9591523340962085,
+      -0.12402493162210342,
+      -0.014010268296567839
+    ],
+    "translation used in CARLA (CARLA reference)": [
+      0.8,
+      1.0,
+      0.9
+    ]
+  },
+  "intrinsic": {
+    "aspect_ratio": 1.00045,
+    "cx_offset": 0.384268,
+    "cy_offset": -0.461036,
+    "height": 966.0,
+    "k1": 340.749,
+    "k2": -16.9704,
+    "k3": 20.9909,
+    "k4": 4.60924,
+    "model": "radial_poly",
+    "poly_order": 4,
+    "width": 1280.0
+  },
+  "name": "MVR"
+}

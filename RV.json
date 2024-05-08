@@ -1,0 +1,29 @@
+{
+  "extrinsic": {
+    "quaternion": [
+      0.6618934113759706,
+      0.6615469354954553,
+      -0.24866366735447534,
+      -0.24983823696839286
+    ],
+    "translation used in CARLA (CARLA reference)": [
+      -1.92,
+      0.0,
+      0.9
+    ]
+  },
+  "intrinsic": {
+    "aspect_ratio": 1.00034,
+    "cx_offset": 2.86472,
+    "cy_offset": -2.06627,
+    "height": 966.0,
+    "k1": 342.457,
+    "k2": -22.4772,
+    "k3": 28.5462,
+    "k4": 1.78203,
+    "model": "radial_poly",
+    "poly_order": 4,
+    "width": 1280.0
+  },
+  "name": "RV"
+}

@@ -1,0 +1,29 @@
+{
+  "extrinsic": {
+    "quaternion": [
+      0.9625033676947315,
+      0.24265726834768292,
+      -0.00839554023354343,
+      -0.12097203064563249
+    ],
+    "translation used in CARLA (CARLA reference)": [
+      0.8,
+      1.0,
+      -0.9
+    ]
+  },
+  "intrinsic": {
+    "aspect_ratio": 1.00014,
+    "cx_offset": 1.185,
+    "cy_offset": -3.36745,
+    "height": 966.0,
+    "k1": 342.234,
+    "k2": -18.6659,
+    "k3": 23.1572,
+    "k4": 4.28064,
+    "model": "radial_poly",
+    "poly_order": 4,
+    "width": 1280.0
+  },
+  "name": "MVL"
+}
